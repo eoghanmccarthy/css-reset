@@ -1,0 +1,13 @@
+{
+  "name": "@eoghanmccarthy/css-reset",
+  "version": "1.0.0",
+  "description": "CSS reset",
+  "author": "Eoghan McCarthy <eoghanmccarthy@outlook.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eoghanmccarthy/css-reset.git"
+  },
+  "main": "index.css",
+  "keywords": [],
+  "license": "MIT"
+}
