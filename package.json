@@ -1,7 +1,7 @@
 {
   "name": "@eoghanmccarthy/css-reset",
   "version": "1.0.0",
-  "description": "CSS reset",
+  "description": "CSS reset.",
   "author": "Eoghan McCarthy <eoghanmccarthy@outlook.com>",
   "repository": {
     "type": "git",
